@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author wizz
+ *
+ */
+package ch.makery.address.model;
